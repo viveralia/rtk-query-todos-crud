@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "title": "Install redux toolkit",
+      "isCompleted": false,
+      "id": 1
+    }
+  ]
+}
